@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+I am a PhD student researching the material properties of additively-manufactured metals.
